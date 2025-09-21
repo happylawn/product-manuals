@@ -84,10 +84,10 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 **Step 2: Install the Grass Basket**
 1.  [cite_start]Lift open the rear cover (1). [cite: 285]
-    * `[Image: Lifting the rear cover - Fig. 4]`
+    * `[Image: images/openrearcover.png`
 2.  [cite_start]Hold the handle (2) of the grass basket (1). [cite: 287]
 3.  [cite_start]Insert the rod (3) of the grass basket into the grooves on the machine body. [cite: 287]
-    * `[Image: Attaching the grass basket - Fig. 5]`
+    * `[Image: images/installgrassbasket.png`
 
 ---
 
@@ -95,19 +95,19 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 **Installing/Removing the Battery**
 1.  [cite_start]**To Install:** Pull up the locking lever (2) and open the battery cover (1). [cite: 301] [cite_start]Align the tongue on the battery with the slot in the machine and slide it in until it clicks. [cite: 303] Close the cover securely. 
-    * `[Image: Opening the battery cover and installing the battery - Fig. 8 & 9]`
+    * `[Image: images/insertbatteries.png`
 2.  [cite_start]**To Remove:** Open the battery cover. [cite: 304] [cite_start]Press the button on the front of the battery cartridge while pulling it out. [cite: 305]
 
 **Checking Battery Capacity**
 * [cite_start]**On the Machine:** A battery indicator light shows the remaining capacity. [cite: 321] [cite_start]When it blinks, the battery is low. [cite: 321] [cite_start]When it lights up solid, the machine will stop. [cite: 322]
 * [cite_start]**On the Battery:** Press the check button (2) on the battery cartridge itself to see the charge level on the indicator lamps (1). [cite: 325]
-    * `[Image: Battery capacity indicator lights - Fig. 11]`
+    * `[Image: images/remainingbattery.png`
 
 **Main Power Switch**
 * [cite_start]To turn the machine on, press the main power switch (2). [cite: 341] [cite_start]The lamp (1) will light up green. [cite: 341]
 * [cite_start]To turn the machine off, press the main power switch again. [cite: 342]
 * [cite_start]**Auto Power-Off:** The machine will automatically shut down if the switch lever is not pulled for a certain period. [cite: 344]
-    * `[Image: Main power switch - Fig. 12]`
+    * `[Image: images/mainpowerswitch.png`
 
 **Adjusting the Working Depth**
 [cite_start]The working depth can be adjusted between +5 mm and -12 mm. [cite: 353]
@@ -116,7 +116,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
     * [cite_start]Turning left makes the depth shallower (up to +5 mm). [cite: 354]
     * [cite_start]Turning right makes the depth deeper (down to -12 mm). [cite: 355]
     * [cite_start]The upper center position is 0 mm. [cite: 355]
-    * `[Image: Working depth adjustment dial - Fig. 14]`
+    * `[Image: images/workingdepth.png`
 * [cite_start]**NOTICE:** When using thatching blades, do not set the depth deeper than -4 mm. [cite: 348]
 
 ---
@@ -129,7 +129,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 3.  [cite_start]Press and hold the switch button (1). [cite: 340]
 4.  [cite_start]While holding the button, pull the switch lever (2) towards you. [cite: 340]
 5.  [cite_start]Release the switch button once the motor starts. [cite: 340]
-    * `[Image: Starting the machine with switch button and lever - Fig. 13]`
+    * `[Image: images/pulllevertowardyou.png`
 6.  [cite_start]**To Stop:** Release the switch lever. [cite: 345] [cite_start]The electric brake will quickly stop the blades. [cite: 375]
 
 **Operating the Scarifier**
@@ -137,7 +137,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 * [cite_start]Walk, never run. [cite: 116, 156]
 * [cite_start]A good operating speed is about 5 to 8 meters per 10 seconds. [cite: 380]
 * [cite_start]Use the marks (2) on the front of the machine as a guide for the working width (1). [cite: 382, 383]
-    * `[Image: Guide for working width - Fig. 21]`
+    * `[Image: images/marksworkingwidth.png`
 * [cite_start]On slopes, always work across the face of the slope, never up and down. [cite: 120, 175]
 
 **Emptying the Grass Basket**
@@ -169,11 +169,11 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 **Replacing the Scarifier Blades**
 1.  [cite_start]Remove the battery and place the machine on its side. [cite: 411]
 2.  [cite_start]Loosen and remove the two bolts (1) and the bracket (2) holding the blade assembly. [cite: 412]
-    * `[Image: Removing the blade bracket - Fig. 30]`
+    * `[Image: images/removescarifierblade.png`
 3.  [cite_start]Lift the blade assembly out of the machine. [cite: 418] [cite_start]You can use a screwdriver to gently pry it up if needed. [cite: 423]
 4.  [cite_start]To install the new blades, insert one end into the hole (2) and the other end into the groove (1). [cite: 422]
 5.  [cite_start]Re-attach the bracket and securely tighten the bolts. [cite: 420]
-    * `[Image: Installing the new blade assembly - Fig. 33]`
+    * `[Image: images/installblade.png`
 
 **Storing the Machine**
 1.  [cite_start]Remove the battery cartridges. [cite: 404]
