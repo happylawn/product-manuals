@@ -7,12 +7,10 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 ### Quick Links
 * [Specifications](#1-specifications)
 * [Safety First](#2-safety-first)
-* [Assembly Instructions](#3-assembly-instructions)
 * [Before You Operate](#4-before-you-operate)
 * [Operation Guide](#5-operation-guide)
-* [Maintenance and Storage](#6-maintenance-and-storage)
 * [Troubleshooting](#7-troubleshooting)
-* [Optional Accessories](#8-optional-accessories)
+
 
 ---
 
@@ -36,11 +34,6 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 | **Battery Cartridge** | BL4020 / BL4025* / BL4040* / BL4050F* / BL4080F* (*Recommended) |
 | **Charger** | DC40RA / DC40RB / DC40RC |
 
-**Replacement Blades**
-| Type | Part Number |
-| :--- | :--- |
-| **Vertical Cutter** | 1913J5-0 |
-| **Thatching Blades** | 1913J7-6 |
 
 ---
 
@@ -68,21 +61,8 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 ---
 
-### 3. Assembly Instructions
 
-**WARNING: Ensure the battery cartridge is removed before starting assembly.** Failure to do so could result in serious injury from an accidental start-up.
-
-**Step 1: Assemble the Handle**
-1.  Raise the lower handle.
-2.  Align the holes of the lower handle with the middle handle.
-3.  Insert a bolt from the inside and tighten a thumb nut from the outside. Repeat on the other side.
-    * ![Assembling the middle handle to the lower handle](images/Fig8.png)
-4.  Align the holes of the middle handle with the upper handle.
-5.  Insert a bolt from the inside and tighten a thumb nut from the outside. Repeat on the other side.
-    * ![Assembling the upper handle to the middle handle](images/Fig9.png)
-    * **NOTICE:** Be careful not to pinch the cord between the handles.
-
-**Step 2: Install the Grass Basket**
+### 1. Install the Grass Basket**
 1.  Lift open the rear cover.
     * ![Lifting the rear cover](images/openrearcover.png)
 2.  Hold the handle of the grass basket.
@@ -91,7 +71,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 ---
 
-### 4. Before You Operate
+### 2. Before You Operate
 
 **Installing/Removing the Battery**
 1.  **To Install:** Pull up the locking lever and open the battery cover. Align the tongue on the battery with the slot in the machine and slide it in until it clicks. Close the cover securely.
@@ -121,7 +101,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 
 ---
 
-### 5. Operation Guide
+### 3. Operation Guide
 
 **Starting the Machine**
 1.  Ensure the work area is clear of stones, sticks, and other debris.
@@ -149,24 +129,8 @@ The working depth can be adjusted between +5 mm and -12 mm.
 
 ---
 
-### 6. Maintenance and Storage
 
-**WARNING: Always remove the battery cartridges and wear gloves before performing any inspection or maintenance.**
-
-**Cleaning**
-1.  After use, remove the battery cartridges.
-2.  Place the machine on its side.
-3.  Clean out any grass clippings accumulated on the underside of the machine deck.
-4.  You can pour water on the underside of the machine to clean the blades.
-    * ![Cleaning the underside of the machine with water](images/Fig23_Cleaning.png)
-    * **NOTICE:** Do not use gasoline, thinner, or alcohol for cleaning. Do not use a high-pressure washer.
-
-**Regular Checks**
-* Keep all nuts, bolts, and screws tight to ensure the machine is in safe working condition.
-* Frequently check the grass basket for any wear or damage.
-* Check the blade mounting bolt for proper tightness.
-
-**Replacing the Scarifier Blades**
+### 4. Replacing the Scarifier Blades
 1.  Remove the battery and place the machine on its side.
 2.  Loosen and remove the two bolts and the bracket holding the blade assembly.
     * ![Removing the blade bracket](images/removescarifierblade.png)
@@ -175,11 +139,6 @@ The working depth can be adjusted between +5 mm and -12 mm.
 5.  Re-attach the bracket and securely tighten the bolts.
     * ![Installing the new blade assembly](images/installblade.png)
 
-**Storing the Machine**
-1.  Remove the battery cartridges.
-2.  Loosen the thumb nuts to fold the handle down for compact storage. Be careful not to pinch the cords.
-    * ![Folding the handle for storage](images/Fig25_and_Fig26_Folding.png)
-3.  Store the machine indoors in a cool, dry, and locked place, out of the reach of children.
 
 ---
 
@@ -195,7 +154,7 @@ If you encounter an issue, check this table before seeking repairs.
 | **Blades do not rotate.** | A foreign object is stuck in the blades. | **Stop immediately.** Remove battery, then remove the object. |
 | **Abnormal vibration.** | Blades are worn, damaged, or imbalanced. | **Stop immediately.** Remove battery, then replace the scarifier blades. |
 
-If the problem is not solved, contact your local Makita Authorized Service Center for repairs.
+
 
 ---
 
