@@ -84,7 +84,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 **Step 2: Install the Grass Basket**
 1.  [cite_start]Lift open the rear cover (1). [cite: 285]
-    * `[Image: (product-manuals/images/openrearcover.png)`
+    * [Image: (images/openrearcover.png)
 2.  [cite_start]Hold the handle (2) of the grass basket (1). [cite: 287]
 3.  [cite_start]Insert the rod (3) of the grass basket into the grooves on the machine body. [cite: 287]
     * `[Image: images/installgrassbasket.png`
