@@ -23,16 +23,14 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 | **Working Width** | 380 mm |
 | **No Load Speed** | 3,200 min⁻¹ |
 | **Rated Voltage** | D.C. 36 V - 40 V max |
-| **Dimensions (Operating)** | L: 1,020 - 1,240 mm, W: 680 mm, H: 915 - 1,155 mm |
-| **Dimensions (Stored)** | 550 mm x 680 mm x 640 mm (without grass basket) |
 | **Net Weight** | 18.7 - 23.8 kg |
 | **Protection Degree** | IPX4 |
 
-**Compatible Batteries & Chargers**
+**Batteries & Charger**
 | Type | Model Numbers |
 | :--- | :--- |
-| **Battery Cartridge** | BL4020 / BL4025* / BL4040* / BL4050F* / BL4080F* (*Recommended) |
-| **Charger** | DC40RA / DC40RB / DC40RC |
+| **Battery Cartridge** | BL4080F |
+| **Charger** | DC40RA |
 
 
 ---
@@ -59,8 +57,8 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 * **Do not expose the battery to fire or high temperatures.** Temperatures above 130°C may cause an explosion.
 * **Handle batteries carefully.** When not in use, keep the battery pack away from metal objects like paper clips, coins, or keys that could make a connection between terminals.
 
----
 
+---
 
 ### 1. Install the Grass Basket**
 1.  Lift open the rear cover.
@@ -68,6 +66,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 2.  Hold the handle of the grass basket.
 3.  Insert the rod of the grass basket into the grooves on the machine body.
     * ![Attaching the grass basket](images/installgrassbasket.png)
+
 
 ---
 
@@ -78,16 +77,25 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
     * ![Opening the battery cover and installing the battery](images/insertbatteries.png)
 2.  **To Remove:** Open the battery cover. Press the button on the front of the battery cartridge while pulling it out.
 
+
+---
+
 **Checking Battery Capacity**
 * **On the Machine:** A battery indicator light shows the remaining capacity. When it blinks, the battery is low. When it lights up solid, the machine will stop.
 * **On the Battery:** Press the check button on the battery cartridge itself to see the charge level on the indicator lamps.
     * ![Battery capacity indicator lights](images/remainingbattery.png)
+
+
+---
 
 **Main Power Switch**
 * To turn the machine on, press the main power switch. The lamp will light up green.
 * To turn the machine off, press the main power switch again.
 * **Auto Power-Off:** The machine will automatically shut down if the switch lever is not pulled for a certain period.
     * ![Main power switch](images/mainpowerswitch.png)
+
+
+---
 
 **Adjusting the Working Depth**
 The working depth can be adjusted between +5 mm and -12 mm.
@@ -98,6 +106,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
     * The upper center position is 0 mm.
     * ![Working depth adjustment dial](images/workingdepth.png)
 * **NOTICE:** When using thatching blades, do not set the depth deeper than -4 mm.
+
 
 ---
 
@@ -112,6 +121,9 @@ The working depth can be adjusted between +5 mm and -12 mm.
     * ![Starting the machine with switch button and lever](images/pulllevertowardyou.png)
 6.  **To Stop:** Release the switch lever. The electric brake will quickly stop the blades.
 
+
+---
+
 **Operating the Scarifier**
 * Hold the handle firmly with both hands.
 * Walk, never run.
@@ -120,6 +132,9 @@ The working depth can be adjusted between +5 mm and -12 mm.
     * ![Guide for working width](images/marksworkingwidth.png)
 * On slopes, always work across the face of the slope, never up and down.
 
+
+---
+
 **Emptying the Grass Basket**
 1.  Stop the machine by releasing the switch lever. Turn off the main power switch.
 2.  Open the rear cover.
@@ -127,8 +142,8 @@ The working depth can be adjusted between +5 mm and -12 mm.
 4.  Re-install the basket and close the rear cover.
 * **NOTICE:** A full grass basket puts extra load on the motor. Empty it regularly before it becomes full.
 
----
 
+---
 
 ### 4. Replacing the Scarifier Blades
 1.  Remove the battery and place the machine on its side.
@@ -144,7 +159,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 
 ### 7. Troubleshooting
 
-If you encounter an issue, check this table before seeking repairs.
+If you encounter an issue, check this table.
 
 | Problem | Probable Cause | Remedy |
 | :--- | :--- | :--- |
@@ -158,8 +173,4 @@ If you encounter an issue, check this table before seeking repairs.
 
 ---
 
-### 8. Optional Accessories
 
-The following accessories are recommended for use with your machine.
-* Scarifier blades (Vertical Cutter or Thatching Blades)
-* Makita genuine battery and charger
