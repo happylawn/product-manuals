@@ -95,19 +95,19 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 **Installing/Removing the Battery**
 1.  **To Install:** Pull up the locking lever and open the battery cover. Align the tongue on the battery with the slot in the machine and slide it in until it clicks. Close the cover securely.
-    * ![Opening the battery cover and installing the battery](images/Fig8_and_Fig9_Battery.png)
+    * ![Opening the battery cover and installing the battery](images/insertbatteries.png)
 2.  **To Remove:** Open the battery cover. Press the button on the front of the battery cartridge while pulling it out.
 
 **Checking Battery Capacity**
 * **On the Machine:** A battery indicator light shows the remaining capacity. When it blinks, the battery is low. When it lights up solid, the machine will stop.
 * **On the Battery:** Press the check button on the battery cartridge itself to see the charge level on the indicator lamps.
-    * ![Battery capacity indicator lights](images/Fig11_BatteryIndicator.png)
+    * ![Battery capacity indicator lights](images/remainingbattery.png)
 
 **Main Power Switch**
 * To turn the machine on, press the main power switch. The lamp will light up green.
 * To turn the machine off, press the main power switch again.
 * **Auto Power-Off:** The machine will automatically shut down if the switch lever is not pulled for a certain period.
-    * ![Main power switch](images/Fig12_PowerSwitch.png)
+    * ![Main power switch](images/mainpowerswitch.png)
 
 **Adjusting the Working Depth**
 The working depth can be adjusted between +5 mm and -12 mm.
@@ -116,7 +116,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
     * Turning left makes the depth shallower (up to +5 mm).
     * Turning right makes the depth deeper (down to -12 mm).
     * The upper center position is 0 mm.
-    * ![Working depth adjustment dial](images/Fig14_DepthAdjust.png)
+    * ![Working depth adjustment dial](images/workingdepth.png)
 * **NOTICE:** When using thatching blades, do not set the depth deeper than -4 mm.
 
 ---
@@ -129,7 +129,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 3.  Press and hold the switch button.
 4.  While holding the button, pull the switch lever towards you.
 5.  Release the switch button once the motor starts.
-    * ![Starting the machine with switch button and lever](images/Fig13_Start.png)
+    * ![Starting the machine with switch button and lever](images/pulllevertowardyou.png)
 6.  **To Stop:** Release the switch lever. The electric brake will quickly stop the blades.
 
 **Operating the Scarifier**
@@ -137,7 +137,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 * Walk, never run.
 * A good operating speed is about 5 to 8 meters per 10 seconds.
 * Use the marks on the front of the machine as a guide for the working width.
-    * ![Guide for working width](images/Fig21_WidthGuide.png)
+    * ![Guide for working width](images/marksworkingwidth.png)
 * On slopes, always work across the face of the slope, never up and down.
 
 **Emptying the Grass Basket**
@@ -169,11 +169,11 @@ The working depth can be adjusted between +5 mm and -12 mm.
 **Replacing the Scarifier Blades**
 1.  Remove the battery and place the machine on its side.
 2.  Loosen and remove the two bolts and the bracket holding the blade assembly.
-    * ![Removing the blade bracket](images/Fig30_RemoveBlades.png)
+    * ![Removing the blade bracket](images/removescarifierblade.png)
 3.  Lift the blade assembly out of the machine. You can use a screwdriver to gently pry it up if needed.
 4.  To install the new blades, insert one end into the hole and the other end into the groove.
 5.  Re-attach the bracket and securely tighten the bolts.
-    * ![Installing the new blade assembly](images/Fig33_InstallBlades.png)
+    * ![Installing the new blade assembly](images/installblade.png)
 
 **Storing the Machine**
 1.  Remove the battery cartridges.
