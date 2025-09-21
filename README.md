@@ -17,8 +17,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 ### 1. Specifications
 
 **Key Technical Details**
-| Feature | Specification |
-| :--- | :--- |
+
 | **Model** | UV001G |
 | **Working Width** | 380 mm |
 | **No Load Speed** | 3,200 min⁻¹ |
@@ -26,9 +25,11 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 | **Net Weight** | 18.7 - 23.8 kg |
 | **Protection Degree** | IPX4 |
 
+
+---
+
 **Batteries & Charger**
-| Type | Model Numbers |
-| :--- | :--- |
+
 | **Battery Cartridge** | BL4080F |
 | **Charger** | DC40RA |
 
@@ -60,7 +61,7 @@ An easy-to-use online guide for your Makita Cordless Scarifier.
 
 ---
 
-### 1. Install the Grass Basket**
+### 1. Install the Grass Basket
 1.  Lift open the rear cover.
     * ![Lifting the rear cover](images/openrearcover.png)
 2.  Hold the handle of the grass basket.
