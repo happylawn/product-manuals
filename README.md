@@ -37,13 +37,13 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 ---
 
  **Scarifier blade** | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil - Use in April/May September/October 
-    * ![Scarifier blade](images/verticalcutter.png)
+     ![Scarifier blade](images/verticalcutter.png)
 
 
     ---
     
  **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use 
-    * ![Dethatching blade](images/thatchingblade.png)
+     ![Dethatching blade](images/thatchingblade.png)
 
 
 ---
@@ -53,7 +53,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 **WARNING: Read all safety warnings and instructions before use.** Failure to follow all instructions may result in electric shock, fire, and/or serious injury.
 
 **Personal Safety**
-* ![Ppe](images/ppe.png)
+ ![Ppe](images/ppe.png)
 
 * **Always wear eye protection.** Protective goggles must comply with ANSI Z87.1 (USA), EN 166 (Europe), or AS/NZS 1336 (Australia/New Zealand). In Australia/New Zealand, you are legally required to wear a face shield.
 * **Dress properly.** Do not wear loose clothing, jewellery, or cloth work gloves which may get entangled. Keep hair and clothing away from moving parts.
