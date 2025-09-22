@@ -43,6 +43,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
     ---
     
  **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use 
+
 ![Dethatching blade](images/thatchingblade.png)
 
 
