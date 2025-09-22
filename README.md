@@ -32,9 +32,10 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 | **Battery Cartridge** | BL4080F (X2) |
 | **Charger** | DC40RB |
-| **Scarifier blade** | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil - Use in April/May September/October |
+
+ **Scarifier blade** | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil - Use in April/May September/October 
     * ![Scarifier blade](images/verticalcutter.png)
-| **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use |
+ **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use 
     * ![Dethatching blade](images/thatchingblade.png)
 
 
@@ -46,6 +47,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 **Personal Safety**
     * ![Ppe](images/ppe.png)
+
 * **Always wear eye protection.** Protective goggles must comply with ANSI Z87.1 (USA), EN 166 (Europe), or AS/NZS 1336 (Australia/New Zealand). In Australia/New Zealand, you are legally required to wear a face shield.
 * **Dress properly.** Do not wear loose clothing, jewellery, or cloth work gloves which may get entangled. Keep hair and clothing away from moving parts.
 * **Wear protective footwear.** Always wear substantial, non-slip footwear. Do not operate the machine barefoot or in open sandals.
@@ -76,7 +78,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 ---
 
-**Before You Operate**
+### 3. Before you operate
 
 **Installing/Removing the Battery**
 1.  **To Install:** Pull up the locking lever and open the battery cover. Align the tongue on the battery with the slot in the machine and slide it in until it clicks. Close the cover securely.
@@ -118,7 +120,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 
 ---
 
-### 3. Operation Guide
+### 4. Operation Guide
 
 **Starting the Machine**
 1.  Ensure the work area is clear of stones, sticks, and other debris.
@@ -157,7 +159,7 @@ The working depth can be adjusted between +5 mm and -12 mm.
 
 ---
 
-### 4. Replacing the Scarifier Blades
+**Replacing the Scarifier Blades**
 1.  Remove the battery and place the machine on its side.
 2.  Loosen and remove the two bolts and the bracket holding the blade assembly.
     * ![Removing the blade bracket](images/removescarifierblade.png)
