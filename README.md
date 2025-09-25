@@ -5,7 +5,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 ---
 
 ### Quick Links
-* [Specifications](#1-specifications)
+* [Specifications](#1-accessories-provided)
 * [Safety First](#2-safety-first)
 * [Before You Operate](#3-before-you-operate)
 * [Operation Guide](#4-operation-guide)
@@ -14,21 +14,8 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 ---
 
-### 1. Specifications
+### 1. Accessories Provided
 
-**Key Technical Details**
-
-| **Model** | UV001G |
-| **Working Width** | 380 mm |
-| **No Load Speed** | 3,200 min⁻¹ |
-| **Rated Voltage** | D.C. 36 V - 40 V max |
-| **Net Weight** | 18.7 - 23.8 kg |
-| **Protection Degree** | IPX4 |
-
-
----
-
-**Accessories Provided**
 
 | **Battery Cartridge** | BL4080F (X2) |
 | **Charger** | DC40RB |
@@ -36,14 +23,13 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 ---
 
- **Scarifier blade** | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil - Use in April/May September/October 
+ | **Scarifier blade** | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil - Use in April/May September/October | 
      ![Scarifier blade](images/verticalcutter.png)
 
 
     ---
     
- **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use 
-
+| **Dethatching blade** | Lifts layers of thatch and moss - Ideal year-round use | 
 ![Dethatching blade](images/thatchingblade.png)
 
 
