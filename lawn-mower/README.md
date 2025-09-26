@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
 
-    * ![Lawn Mower Image](../images/lawnmower/mower.png)
+    * ![Makita mower](../images/lawnmower/mower.png)
 
 ---
 
@@ -23,7 +23,7 @@ An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
 | **Battery Cartridge** | BL1850B (X4) | 18V LXT 5ah lithium-ion batteries |
 | **Charger** | DC18RD | 18V Dual battery charger - charges two batteries simultaneously |
 | **Mulching Plug** | (Fig.15) | Used to block the exit channel for the grass clippings, allowing them to be cut into smaller pieces and deposited on the lawn as fertiliser |
-    * ![mulching plug](../images/lawnmower/fig15.png)
+    * ![Mulching plug](../images/lawnmower/fig15.png)
 
 ---
 
