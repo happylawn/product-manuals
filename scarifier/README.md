@@ -1,7 +1,7 @@
 # Makita Cordless Scarifier - Model UV001G
 
 An easy-to-use online guide for the Makita Cordless Scarifier.
-* ![Makita scarifier](images/scarifierimage.png)
+* ![Makita scarifier](../images/scarifierimage.png)
 ---
 
 ### Quick Links
