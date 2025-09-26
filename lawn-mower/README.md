@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
 
-    * ![mower](../images/mower.png)
+    * ![mower](../images/lawnmower/mower.png)
 
 ---
 
