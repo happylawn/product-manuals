@@ -16,6 +16,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 ### 1. Accessories Provided
 
+| :--- | :--- | :--- |
 
 | **Battery Cartridge** | BL4080F (X2) |
 | **Charger** | DC40RB |
