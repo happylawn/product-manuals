@@ -5,7 +5,7 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 ---
 
 ### Quick Links
-* [Specifications](#1-accessories-provided)
+* [Accessories Provided](#1-accessories-provided)
 * [Safety First](#2-safety-first)
 * [Before You Operate](#3-before-you-operate)
 * [Operation Guide](#4-operation-guide)
