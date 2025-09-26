@@ -18,9 +18,9 @@ An easy-to-use online guide for the Makita Cordless Scarifier.
 
 | Accessory | Details | Description |
 | :--- | :--- | :--- |
-| **Battery Cartridge** | BL4080F (X2) | Powers the scarifier. |
-| **Charger** | DC40RB | Charges the battery cartridges. |
-| **Scarifier blade** | (Fig.5) | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil. Use in April/May & September/October. |
+| **Battery Cartridge** | BL4080F (X2) | 40V XGT 8ah lithium-ion batteries |
+| **Charger** | DC40RB | 40V XGT Dual battery charger - charges two batteries simultaneously |
+| **Scarifier blade** | (Fig.6) | Cuts into the soil to remove thatch and allow water and nutrients deep into the soil. Use in April/May & September/October. |
 | **Dethatching blade**| (Fig.7) | Lifts layers of thatch and moss. Ideal for year-round use. |
 
 ![Scarifier blade](../images/verticalcutter.png)
