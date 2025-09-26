@@ -1,6 +1,7 @@
-# Makita Cordless Lawn Mower - Model DLM466
+# Makita 18" Lawn Mower - Model DLM466
 
 An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
+
     * ![Lawn Mower Image](../images/lawnmower/mower.png)
 
 ---
