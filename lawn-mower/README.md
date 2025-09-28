@@ -1,8 +1,7 @@
 # Makita 18" Lawn Mower - Model DLM466
 
 An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
-
-    * ![Installing the grass basket](images/mower.png)
+    * ![Installing the grass basket](lawn-mower/images/mower.png)
 
 ---
 
