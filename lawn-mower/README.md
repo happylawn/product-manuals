@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for the Makita 36V 18" Lawn Mower.
 
-    * ![Installing the grass basket](https://raw.githubusercontent.com/happylawn/product-manuals/refs/heads/main/images/lawnmower/mower.png)
+    * ![Installing the grass basket](images/mower.png)
 
 ---
 
