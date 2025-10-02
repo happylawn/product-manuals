@@ -30,9 +30,12 @@ An easy-to-use online guide for your Makita Cordless Grass Trimmer.
 
 **Personal Safety**
 * Always wear eye and ear protection, a helmet, and protective gloves.
+
 ![Makita Cordless Grass Trimmer](images/ppe.png)
+
 * Do not wear loose clothing or jewellery. Keep hair away from moving parts.
 * Always wear sturdy, non-slip shoes.
+
 ![Makita Cordless Grass Trimmer](images/fig1.png)
 
 **Work Area Safety**
@@ -43,6 +46,10 @@ An easy-to-use online guide for your Makita Cordless Grass Trimmer.
 * Disconnect the battery before any maintenance.
 * Always hold the tool with both hands.
 * Never use metal blades.
+
+![Makita Cordless Grass Trimmer](images/fig2.png)
+
+![Makita Cordless Grass Trimmer](images/fig2.5.png)
 
 ---
 
@@ -71,6 +78,14 @@ An easy-to-use online guide for your Makita Cordless Grass Trimmer.
 
 **Feeding the Nylon Cord (Bump & Feed)**
 * To feed out more line, gently tap the rotating cutting head against the ground.
+
+**Automatic Torque Drive Technology**
+
+When you turn on the Automatic Torque Drive Technology (ADT), the tool runs at optimum rotation speed and torque for the condition of grass being cut.
+* **Turn On:** To start ADT, press and hold the reverse button until the ADT indicator turns on.
+* **Turn Off** To stop ADT, press and hold the reverse button until the ADT indicator turns off.
+
+![ADT](images/fig8.1.png)
 
 ---
 
