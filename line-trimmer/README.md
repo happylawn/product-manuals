@@ -2,8 +2,7 @@
 
 An easy-to-use online guide for your Makita Cordless Grass Trimmer.
 
-    * ![Makita UR008g](images/linetrimmer.png)
-
+    * ![Makita UR008g](line-trimmer/images/linetrimmer.png)
 
 ---
 
