@@ -1,6 +1,6 @@
 # Makita Cordless Grass Trimmer - Model UR008G
 
-An easy-to-use online guide for your Makita Cordless Grass Trimmer.
+An easy-to-use online guide for the Makita Cordless Grass Trimmer.
 
 ![Makita Cordless Grass Trimmer](images/linetrimmer.png)
 
