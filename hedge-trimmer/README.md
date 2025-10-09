@@ -1,6 +1,6 @@
-# Makita Cordless Hedge Trimmer - Models UH004G - UH009G
+# Makita Cordless Hedge Trimmer - Model UH004G
 
-An easy-to-use online guide for your Makita Cordless Hedge Trimmer.
+An easy-to-use online guide for the Makita Cordless Hedge Trimmer.
 
 ---
 
@@ -14,22 +14,12 @@ An easy-to-use online guide for your Makita Cordless Hedge Trimmer.
 
 ---
 
-### **1. Specifications**
 
-#### **Key Technical Details**
-| Feature | UH004G / UH008G | UH005G / UH009G | UH006G / UH007G |
-| :--- | :--- | :--- | :--- |
-| **Blade Length** | 600 mm | 750 mm | 600 mm / 750 mm |
-| **Strokes per min** | 2,000 / 3,600 / 5,000 | 2,000 / 3,600 / 5,000 | 2,000 / 3,000 / 4,000 |
-| **Rated Voltage** | D.C. 36 V - 40 V max | D.C. 36 V - 40 V max | D.C. 36 V - 40 V max |
-| **Net Weight** | 4.3 - 4.9 kg | 4.4 - 5.1 kg | 4.4 - 5.2 kg |
-| **Protection Degree** | IPX4 | IPX4 | IPX4 |
-
-#### **Compatible Batteries & Chargers**
-| Type | Model Numbers |
+### **1. Accessories Provided**
+| Accessory | Details | Description |
 | :--- | :--- |
-| **Battery Cartridge** | BL4020* / BL4025 / BL4040* / BL4050F (*Recommended) |
-| **Charger** | DC40RA / DC40RB / DC40RC |
+| **Battery Cartridge** | BL4040f (x1) | 40V XGT 4ah lithium-ion battery |
+| **Charger** | DC40RA | 40V XGT battery charger |
 
 ---
 
@@ -38,6 +28,8 @@ An easy-to-use online guide for your Makita Cordless Hedge Trimmer.
 **WARNING: Read all safety warnings and instructions before use.** Failure to follow the warnings and instructions may result in electric shock, fire, and/or serious injury.
 
 #### **Personal Safety**
+ ![Ppe](../images/ppe.png)
+ 
 * **DANGER - Keep hands away from blade.** Contact with the blade will result in serious personal injury.
 * **Always wear eye and ear protection.**
 * **Dress properly.** Do not wear loose clothing or jewellery. Keep your hair and clothing away from moving parts.
