@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for your Makita Cordless Blower.
 
-!(images/cover.png)
+ ![Cover image](../images/cover.png)
 
 ---
 
