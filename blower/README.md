@@ -2,19 +2,16 @@
 
 An easy-to-use online guide for your Makita Cordless Blower.
 
- ![Cover image](../images/cover.png)
+ ![Cover image](images/cover.png)
 
 ---
 
 ### Quick Links
-* [Specifications](#1-specifications)
+* [Accessories provided](#1-accessories-provided)
 * [Safety First](#2-safety-first)
-* [Assembly Instructions](#3-assembly-instructions)
-* [Before You Operate](#4-before-you-operate)
-* [Operation Guide](#5-operation-guide)
-* [Maintenance](#6-maintenance)
-* [Troubleshooting](#7-troubleshooting)
-* [Optional Accessories](#8-optional-accessories)
+* [Before You Operate](#3-before-you-operate)
+* [Operation Guide](#4-operation-guide)
+* [Troubleshooting](#5-troubleshooting)
 
 ---
 
@@ -54,18 +51,18 @@ An easy-to-use online guide for your Makita Cordless Blower.
 
 ---
 
-### 4. Before You Operate
+### 3. Before You Operate
 
 #### Installing/Removing the Battery
 
- ![Ppe](../images/installbattery.png)
+ ![Install battery](images/installbattery.png)
  
 * **To Install:** Align the tongue on the battery cartridge with the groove in the housing and slide it in until it clicks. Make sure the red indicator is no longer visible.
 * **To Remove:** Slide the battery cartridge out while pressing the button on the front of the cartridge.
 
 #### Main Power Switch
 
- ![Ppe](../images/mainpowerswitch.png)
+ ![Main power switch](images/mainpowerswitch.png)
  
 * **Turn On:** Press the main power switch. The lamp will light up green.
 * **Turn Off:** Press the main power switch again.
@@ -73,26 +70,24 @@ An easy-to-use online guide for your Makita Cordless Blower.
 
 ---
 
-### 5. Operation Guide
+### 4. Operation Guide
 
 #### Starting the Blower
 
- ![Ppe](../images/switchtrigger.png)
+ ![Switch trigger](images/switchtrigger.png)
  
 To start the machine, simply pull the switch trigger. The speed increases as you pull the trigger harder. Release the switch trigger to stop.
 **NOTE:** **Never block the suction inlet or blower outlet.**
 
 #### Cruise Control Function
 
- ![Ppe](../images/controllever.png)
+ ![Control lever](images/controllever.png)
  
 The cruise control function allows you to maintain a constant speed without pulling the trigger. To set the speed, turn the control lever forward.
 
-!(images/UB001G_Trigger.png)
-
 #### Boost Mode
 
- ![Ppe](../images/boost.png)
+ ![Boost](images/boost.png)
  
 For maximum power, you can use the Boost mode. To activate it, pull the switch trigger until it stops halfway, and then pull it fully.
 
@@ -103,7 +98,7 @@ For maximum power, you can use the Boost mode. To activate it, pull the switch t
 
 ---
 
-### 7. Troubleshooting
+### 5. Troubleshooting
 
 If you encounter an issue, check this table before seeking repairs.
 
