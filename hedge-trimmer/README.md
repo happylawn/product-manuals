@@ -56,14 +56,14 @@ An easy-to-use online guide for the Makita Cordless Hedge Trimmer.
 
 #### **Installing/Removing the Battery**
 
-![Install battery](../images/installbattery.png)
+![Install battery](images/installbattery.png)
 
 * **To Install:** Align the tongue on the battery cartridge with the groove in the housing and slide it in until it clicks. Make sure the red indicator is no longer visible.
 * **To Remove:** Slide the battery cartridge out while pressing the button on the front of the cartridge.
 
 #### **Adjusting the Handle Angle**
 
-![Adjust handle angle](../images/anglesetting.png)
+![Adjust handle angle](images/anglesetting.png)
 
 The rear handle can be set to 0°, 45°, or 90° to the left or right for comfortable operation.
 1.  Pull down the lever on the handle.
@@ -74,17 +74,17 @@ The rear handle can be set to 0°, 45°, or 90° to the left or right for comfor
 
 ### **4. Operation Guide**
 
-![Main power button](../images/powerbutton.png)
+![Main power button](images/powerbutton.png)
 
 #### **Main Power and Speed Control**
 * **Turn On:** Tap the main power button to turn the tool on.
 
-![Speed levels adjustment](../images/speedadjust.png)
+![Speed levels adjustment](images/speedadjust.png)
 
 * **Change Speed:** Each time you tap the main power button, the speed level will cycle from 1 (Low) to 2 (Medium) to 3 (High).
 * **Turn Off:** Press and hold the main power button until the speed indicators go off.
 
-![Starting lever switch](../images/switchlever.png)
+![Starting lever switch](images/switchlever.png)
 
 #### **Starting the Trimmer**
 This tool has a dual-switch system for safety.
@@ -93,7 +93,7 @@ This tool has a dual-switch system for safety.
 3.  While holding both, pull the switch trigger (3).
 4.  Release the switch trigger to stop.
 
-![Reverse button](../images/reverse.png)
+![Reverse button](images/reverse.png)
 
 #### **Reverse Button for Debris Removal**
 If branches get jammed in the blades:
@@ -101,13 +101,13 @@ If branches get jammed in the blades:
 2.  Tap the reverse button. The speed indicators will blink.
 3.  Press the levers and pull the trigger to briefly move the blades in reverse to clear the jam.
 
-![Operating technique](../images/holdbothhands.png)
+![Operating technique](images/holdbothhands.png)
 
 #### **Operating Technique**
 * **Hold the tool with both hands** and move it calmly and slowly.
 * For a level hedge top, tie a string at the desired height and trim along it.
 
-![Cutting technique](../images/cuthedgeside.png)
+![Cutting technique](images/cuthedgeside.png)
 
 * To trim the side of a hedge, cut from the bottom to the top.
 * **NOTICE:** Do not attempt to cut branches thicker than 10 mm in diameter with the tool!
