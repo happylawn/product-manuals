@@ -18,7 +18,7 @@ An easy-to-use online guide for the Makita Cordless Hedge Trimmer.
 
 ### **1. Accessories Provided**
 | Accessory | Details | Description |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | **Battery Cartridge** | BL4040f (x1) | 40V XGT 4ah lithium-ion battery |
 | **Charger** | DC40RA | 40V XGT battery charger |
 
