@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for the Makita Cordless Hedge Trimmer.
 
-![Cover image](../images/cover.png)
+![Cover image](images/cover.png)
 
 ---
 
