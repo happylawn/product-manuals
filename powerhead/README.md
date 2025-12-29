@@ -2,7 +2,7 @@
 
 An easy-to-use online guide for the Makita Cordless Multi Function Power Head.
 
-![Makita Cordless Multi Function Power Head](images/powerhead.png)
+![Makita Cordless Multi Function Power Head](images/cover.png)
 
 ---
 
