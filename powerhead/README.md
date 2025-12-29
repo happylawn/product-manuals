@@ -1,4 +1,4 @@
-# Makita Cordless Multi Function Power Head - Model UX01G
+# Makita Cordless Power Head - Model UX01G
 
 An easy-to-use online guide for the Makita Cordless Multi Function Power Head.
 
@@ -52,13 +52,13 @@ An easy-to-use online guide for the Makita Cordless Multi Function Power Head.
 **Installing/Removing the Battery**
 * **To Install:** Slide the battery cartridge in until it clicks and the red indicator is hidden.
 * **To Remove:** Press the button on the front of the battery while sliding it out.
-    * ![Installing the battery cartridge](images/fig_battery.png)
+    * ![Installing the battery cartridge](images/installbattery.png)
 
 **Main Power and Speed Control**
 * **Turn On:** Tap the main power button.
 * **Change Speed:** Tap the power button to cycle through speeds 1, 2, and 3.
 * **Turn Off:** Press and hold the main power button until the lights go out.
-    * ![Main power button and speed indicator](images/fig_panel.png)
+    * ![Main power button and speed indicator](images/powerbutton.png)
 
 ---
 
@@ -68,13 +68,15 @@ An easy-to-use online guide for the Makita Cordless Multi Function Power Head.
 1. Depress the lock-off lever.
 2. While holding the lock-off lever, pull the switch trigger.
 3. Release the switch trigger to stop.
-    * ![Lock-off lever and switch trigger](images/fig_trigger.png)
+    * ![Lock-off lever and switch trigger](images/locklever.png)
 
 **Reverse Button (Debris Removal)**
 If grass or debris gets tangled in the head:
 1. Tap the **Reverse Button**.
 2. Pull the trigger. The tool will spin backward for a few seconds to clear the debris.
 3. Tap the Reverse Button again to return to normal forward rotation.
+    * ![Reverse-button](images/reverse.png)
+
 
 **Active Feedback sensing Technology (AFT)**
 * If the tool detects a sudden drop in speed (like hitting a solid object), the **Green Caution Lamp** will blink and the tool will stop to prevent kickback. 
