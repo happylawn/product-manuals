@@ -1,6 +1,6 @@
-# Makita Cordless Multi Function Power Head - Model UX01G
+# Makita Multi Function Power Head - Model UX01G
 
-An easy-to-use online guide for the Makita Cordless Multi Function Power Head and attachments.
+An easy-to-use online guide for the Makita Multi Function Power Head and attachments.
 
 ![Makita Cordless Multi Function Power Head](images/cover.png)
 
@@ -48,23 +48,23 @@ An easy-to-use online guide for the Makita Cordless Multi Function Power Head an
 2. Align the pin with the arrow mark on the attachment.
 3. Insert the attachment until the release button pops up.
 4. Tighten the knob securely.
+* **Ensure release button pops up when connected. Failure to do so may result in damage to machine.**
     * ![Connecting attachments](images/lever.png)
     * ![Connecting attachments 2](images/finallever.png)
 
-**Main Power and Speed Control**
-* **Turn On:** Tap the main power button.
-* **Change Speed:** Tap the power button to cycle through speeds 1, 2, and 3.
-    * *Tip: Use Speed 1 for light trimming to save battery.*
-    * ![Power on](images/powerbutton.png)
 
 ---
 
 ### 3. Operation Guide
 
 **Starting the Tool**
-1. Depress the lock-off lever.
-2. While holding the lock-off lever, pull the switch trigger.
-3. Release the switch trigger to stop.
+
+1.  Turn On: Tap the main power button.
+* **Change Speed:** Tap the power button to cycle through speeds 1, 2, and 3.
+    * ![Power on](images/powerbutton.png)
+2. Depress the lock-off lever.
+3. While holding the lock-off lever, pull the switch trigger.
+4. Release the switch trigger to stop.
     * ![Starting Lock Lever](images/locklever.png)
 
 **Reverse Button (Debris Removal)**
@@ -80,6 +80,7 @@ An easy-to-use online guide for the Makita Cordless Multi Function Power Head an
 
 
 ### 4. Pole Saw Attachment (EY403MP)
+    * ![Polesaw](images/polesaw.png)
 
 **Before Use: Check Chain Oil**
 * Check the oil tank level through the viewing window.
@@ -91,15 +92,14 @@ An easy-to-use online guide for the Makita Cordless Multi Function Power Head an
 1. Loosen the nut on the sprocket cover.
 2. Turn the adjustment screw clockwise to tighten the chain.
 3. The chain is correctly tensioned when it does not sag but can still be turned by hand.
-    * ![Chain tensioning](images/fig_saw_tension.png)
 
 **Cutting Technique**
 * Stand at an angle of 60° or less to the ground.
 * Cut large branches in sections from the tip to the base.
-
 ---
 
 ### 5. Hedge Trimmer Attachment (EN402MP)
+ * ![Hedge Trimmer](images/polehedge.png)
 
 **Adjusting the Cutting Angle**
 1. Pull the **Red** lever and hold it.
