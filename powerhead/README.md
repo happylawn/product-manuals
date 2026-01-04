@@ -80,7 +80,7 @@ An easy-to-use online guide for the Makita Multi Function Power Head and attachm
 
 
 ### 4. Pole Saw Attachment (EY403MP)
-    * ![Polesaw](images/polesaw.png)
+  * ![Polesaw](images/polesaw.png)
 
 **Before Use: Check Chain Oil**
 * Check the oil tank level through the viewing window.
